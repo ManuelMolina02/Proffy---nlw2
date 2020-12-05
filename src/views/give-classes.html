@@ -29,6 +29,8 @@ e não de programação
     <link
         href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap"
         rel="stylesheet">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/png">
+
 
     <!-- Para utilizar script no head, usa-se a propriedade defer, que é renderizar o script depois de -->
     <script src="/scripts/addField.js" defer></script>
@@ -58,7 +60,7 @@ e não de programação
         </header>
 
         <main>
-            <form action="" id="create-class">
+            <form action="/save-classes" id="create-class" method="POST">
                 <fieldset>
                     <legend> Seus dados </legend>
 
@@ -102,7 +104,7 @@ e não de programação
                         <label for="cost">Custo da sua hora/ aula
                             <small>(R$)</small>
                         </label>
-                        <input type="cost" id="cost" type="number" required>
+                        <input name="cost" type="cost" id="cost" type="number" required>
                     </div>
                 </fieldset>
 
