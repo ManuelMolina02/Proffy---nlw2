@@ -1,0 +1,28 @@
+#page-success{
+    background-color: var(--color-primary);
+    color: var(--color-text-in-primary);
+
+    background-image: url("../../images/success-background.svg");
+}
+
+.page-header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+div .content-page{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+div  .content-page h1{
+    font-size: 3rem;
+    width: 300px;
+}
+
+.top-bar-container img{
+    height: 9rem;
+
+}
