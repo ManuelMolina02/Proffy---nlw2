@@ -4,7 +4,7 @@ Uma plataforma de estudos online
 
 ## 💻 Projeto
 
-Esse projeto foi proposto durante a **Next Level Week #2** na *Trilha Discovery*, lecionado pela **@Rocketseat** e ministrado pelo professor **Maik Brito**. A aplicação tem como objetivo conectar professores aos alunos de uma forma simples e dedutiva. 
+Esse projeto foi proposto durante a **Next Level Week #2** na *Trilha Discovery*, lecionado pela **@Rocketseat** e ministrado pelo professor **Mayk Brito**. A aplicação tem como objetivo conectar professores aos alunos de uma forma simples e dedutiva. 
 Para este projeto foi utilizada a metodologia **Mobile First.**
 
  ## 🚀 Tecnologias
