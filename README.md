@@ -2,13 +2,12 @@
 Uma plataforma de estudos online
 
 
-### 🔖 Sobre
+## 💻 Projeto
 
 Esse projeto foi proposto durante a **Next Level Week #2** na *Trilha Discovery*, lecionado pela **@Rocketseat** e ministrado pelo professor **Maik Brito**. A aplicação tem como objetivo conectar professores aos alunos de uma forma simples e dedutiva. 
 Para este projeto foi utilizada a metodologia **Mobile First.**
 
-### 🛠 Tecnologias utilizadas
-
+ ## 🚀 Tecnologias
 
 As seguintes tecnologias/ferramentas foram utilizadas:
 
@@ -17,27 +16,18 @@ As seguintes tecnologias/ferramentas foram utilizadas:
     - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML);
     - [Express](https://expressjs.com/);
 - [NunJucks](https://mozilla.github.io/nunjucks/);
+- [NodeJS](https://nodejs.org/en/);
 - [SQLite](https://www.sqlite.org/index.html);
 
 ---
-### 📎 Como baixar o projeto
 
-##### 👉 Iniciando o projeto em sua máquina:
+## 🤔 Como rodar o projeto?
 
-#->No terminal:
+Após baixar o projeto, acesse ele via seu terminal rode os comandos:
 
-# Clonar repositório:
-$ git clone https://github.com/ManuelMolina02/Proffy---nlw2.git
-
-# Entrar no diretório do projeto:
--> $ cd proffy
-
-# Instalar dependências
-$ npm install
-
-# Iniciar o projeto
-$ npm run dev
-
+```sh
+npm install
+npm start
 ```
 
 
