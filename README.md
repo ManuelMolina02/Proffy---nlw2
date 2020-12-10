@@ -12,9 +12,9 @@ Para este projeto foi utilizada a metodologia **Mobile First.**
 As seguintes tecnologias/ferramentas foram utilizadas:
 
 - [JavaScript](https://www.javascript.com/);
-    - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS);
-    - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML);
-    - [Express](https://expressjs.com/);
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS);
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML);
+- [Express](https://expressjs.com/);
 - [NunJucks](https://mozilla.github.io/nunjucks/);
 - [NodeJS](https://nodejs.org/en/);
 - [SQLite](https://www.sqlite.org/index.html);
